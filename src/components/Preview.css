@@ -1,0 +1,15 @@
+.pre{
+    color: rgb(255, 255, 255);
+    padding-left: 500px;
+    height: fit-content;
+    padding-top: 35px;
+    padding-bottom: 35px;
+    background: rgb(85,102,105);
+background: linear-gradient(90deg, rgba(85,102,105,1) 0%, rgba(164,88,208,1) 70%, rgba(208,158,127,1) 100%);
+}
+
+.pree{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+    font-weight: 200;
+}
